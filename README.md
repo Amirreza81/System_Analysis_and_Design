@@ -1,5 +1,5 @@
 # System Analysis and Design
 
-# Mmebers
+# Members
 
 - [AmirReza Azari](https://github.com/Amirreza81)
